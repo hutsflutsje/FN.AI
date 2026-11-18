@@ -31,7 +31,7 @@ Everything else the installer handles automatically.
 ### 1. Clone the repo
 
 ```powershell
-git clone https://github.com/YOUR_USERNAME/FortniteAimbot.git
+git clone https://github.com/hutsflutsje/FN.AI.git
 cd FortniteAimbot
 git submodule update --init --recursive
 ```
